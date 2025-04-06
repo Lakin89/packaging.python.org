@@ -1,4 +1,4 @@
-.. _installing-packages:
+python command.. _installing-packages:
 
 ===================
 Installing Packages
