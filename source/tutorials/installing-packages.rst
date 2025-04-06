@@ -1,4 +1,4 @@
-.. _installing-packages:
+installing-packages.rst.. _installing-packages:{ 'mega888 patch games generator'
 
 ===================
 Installing Packages
